@@ -6,4 +6,3 @@ async function decrypt(encryptedPrivateKey, hashedPassword) {
     console.log("Decrypted Private Key", privateKey);
     return privateKey;
 }
-
